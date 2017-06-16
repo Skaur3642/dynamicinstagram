@@ -1,0 +1,33 @@
+.form3{
+     width: 890px;
+    height: 900px;
+    margin-left: 200px;
+    border: 1px solid grey;
+}
+#guru1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#guru2{
+    display: inline-block
+}
+#list{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+#comment{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+}
+#collect{
+     display: inline-block;
+    width: 60px;
+    height: 60px;
+    float: right;
+    
+}
+

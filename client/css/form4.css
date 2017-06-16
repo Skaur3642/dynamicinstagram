@@ -1,0 +1,65 @@
+.form4{
+    width: 890px;
+    height: 80px;
+    margin-left: 200px;
+    border: 1px solid grey;
+    
+}
+#sarab1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#sarab2{
+    display: inline-block;
+}
+#kawal1{
+  display: inline-block;
+    height: 50px;
+    width: 50px;   
+}
+#kawal2{
+    display: inline-block;
+}
+#abhi1{
+     display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#abhi2{
+    display: inline-block;
+}
+#amie1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#amie2{
+    display: inline-block;
+}
+#sav1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#sav2{
+    display: inline-block;
+}
+#pal1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#pal2{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#yad1{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#yad2{
+    display: inline-block;
+}
